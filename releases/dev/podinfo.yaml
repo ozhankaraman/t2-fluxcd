@@ -15,7 +15,7 @@ spec:
     ref: master
   values:
     image:
-      repository: ozhank/podinfo
+      repository: ozhankaraman/podinfo
       tag: dev-pspzqu6m
     replicaCount: 3
     hpa:

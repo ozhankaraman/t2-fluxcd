@@ -15,7 +15,7 @@ spec:
     ref: master
   values:
     image:
-      repository: ozhank/python-helloworld
+      repository: ozhankaraman/python-helloworld
       tag: 4.3.5
     hpa:
       enabled: true
